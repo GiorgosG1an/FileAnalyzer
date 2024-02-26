@@ -1,0 +1,4 @@
+This is a test file
+For my FileAnalyzer class.
+This class conatains methods that are involved in analyzing a text file
+By using this class you can perform various tasks and perform some basis analysis on the text file
